@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tarjeta Presentacion</string>
+    <string name="name_surname">Valentin Lintean</string>
+    <string name="business">Leader</string>
+    <string name="phone_number">696969696</string>
+    <string name="email_text">maildeejemplo@gmail.com</string>
+    <string name="share_text">compartir</string>
+</resources>
